@@ -1,6 +1,8 @@
 # odin-recipes
 
 RECIPE SUGGESTION WEBSITE CREATION
+#
+Intentions for website creation are to show the skills learned up to this point in the program labeled as The Odin Project. Updates will be provided upon completion of update. Additional bugs and other fixes shall be labeled in future commits with a - when needed or brief description
 
 -Initial creation of Index.html
 #
