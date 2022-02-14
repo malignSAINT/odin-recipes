@@ -1,4 +1,5 @@
 # odin-recipes
+2/14/2022 3:45am
 
 2/14/2022 4:29am
 
@@ -26,4 +27,7 @@ Intentions for website creation are to show the skills learned up to this point 
 -Basis for HTML creation
 
 -Expansion on CSS in later updates
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/main
